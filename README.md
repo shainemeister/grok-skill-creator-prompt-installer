@@ -15,6 +15,10 @@ Installer for **skill-creator-prompt** - a lightweight interactive assistant tha
 
 Grok will read the zip file, extract the contents, and install the `skill-creator-prompt` skill for you.
 
+![Demo of skill-creator-prompt in action](assets/animated.gif)
+
+
+
 ---
 
 ## What is skill-creator-prompt?
