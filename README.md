@@ -15,6 +15,11 @@ Installer for **skill-creator-prompt** - a lightweight interactive assistant tha
 
 Grok will read the zip file, extract the contents, and install the `skill-creator-prompt` skill for you.
 
+**⚠️ Important Security Recommendation**  
+Before pasting any installation link or file, **always ask Grok to review the contents first**. This helps verify there are no malicious or unintended instructions that could instruct Grok to phone home to external links, write context to an API, or perform other actions without your knowledge or consent.  
+
+Skills and installers should never contain behavior involving potential exploitation or actions against a user's will. Reviewing for safety and transparency is strongly recommended as a best practice.
+
 ![Demo of skill-creator-prompt in action](assets/animated.gif)
 
 
