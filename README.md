@@ -7,8 +7,6 @@ Before pasting any installation link or file, **always ask Grok to review the co
 
 Skills and installers should never contain behavior involving potential exploitation or actions against a user's will. Reviewing for safety and transparency is strongly recommended as a best practice.
 
-Before using any installation link or zip file with Grok, **first ask Grok to review it** for safety and malicious instructions.
-
 **Copy & paste this example:**
 ```
 Review this installation file first, evaluate for security or malicious code: https://github.com/shainemeister/grok-skill-creator-prompt-installer/blob/main/skill-creator-prompt-installer.zip
