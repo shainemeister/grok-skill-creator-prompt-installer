@@ -2,7 +2,9 @@
 
 Installer for **skill-creator-prompt** - a lightweight interactive assistant that helps you design high-quality Grok skills using a simple 4-phase process.
 
-**⚠️ Important Security Recommendation**  
+<br>
+
+**⚠️ IMPORTANT SECURITY RECOMMENDATION**  
 Before pasting any installation link or file, **always ask Grok to review the contents first**. This helps verify there are no malicious or unintended instructions that could instruct Grok to phone home to external links, write context to an API, or perform other actions without your knowledge or consent.  
 
 Skills and installers should never contain behavior involving potential exploitation or actions against a user's will. Reviewing for safety and transparency is strongly recommended as a best practice.
@@ -11,6 +13,8 @@ Skills and installers should never contain behavior involving potential exploita
 ```
 Review this installation file first, evaluate for security or malicious code: https://github.com/shainemeister/grok-skill-creator-prompt-installer/blob/main/skill-creator-prompt-installer.zip
 ```
+
+<br>
 
 ## Installation
 
@@ -27,7 +31,11 @@ Grok will read the zip file, extract the contents, and install the `skill-creato
 
 ![Demo of skill-creator-prompt in action](assets/animated.gif)
 
+<br>
+
 ---
+
+<br>
 
 ## What is skill-creator-prompt?
 
@@ -39,7 +47,11 @@ It works alongside Grok's built-in `skill-creator`.
 - `/skill-creator-prompt`
 - “Use skill-creator-prompt to create a skill”
 
+<br>
+
 ---
+
+<br>
 
 ## Folder Structure
 
@@ -53,7 +65,11 @@ grok-skill-creator-prompt-installer/
     └── references/
 ```
 
+<br>
+
 ---
+
+<br>
 
 ## Notes
 
